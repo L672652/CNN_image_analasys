@@ -26,4 +26,6 @@ Du må også laste ned EuroSAT_RGB datasetet, og gi riktig path til det
 For å bruke Flask appen så går en inn i samme environment og gjør slik
   1. Last ned Flask 3.1.0 nyeste versjon
   2. Last ned pillow 9.5.0
+  3. Så går du å skriver i terminal der appen er flask --app FlaskAPI run
+  4. Da skal den kjøre, hvis du vil teste lokalt
 
