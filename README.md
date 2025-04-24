@@ -5,6 +5,7 @@ Du kan først teoretisk sett kjøre koden fra Untitled1 direkte i kaggle eller e
 Det kommer derimot til å ta lang tid, dermed så skal jeg gi en beskrivelse av hvordan vi satte opp vår. Installasjonene burde gjøres i et egent environment siden ikke alt er den nyeste versionen.
 Dette kommer av at jeg måtte finne mange versioner som matchet.
 Men hvis det er for mye arbeid er det bare å copy paste koden fra Untitled1 i kaggle å kjøre, selv om det også kan ta tid.
+Du ser også resultatet av siste kjøringen jeg gjorde.
 
  1. Last ned Python, Python version 3.9.21 er den vi brukte
  2. Last ned Anaconda, 24.11.3 er den vi brukt.
@@ -17,5 +18,4 @@ Men hvis det er for mye arbeid er det bare å copy paste koden fra Untitled1 i k
  9. Deretter er det bare å gå i anaconda cmd.exe prompt
  10. Aktivere environmentet, og så kjør jupyter notebook
  11. Deretter er det bare å gå inn på Untitled1 og klikke kjør
-Du ser også resultatet av siste kjøring av med meg
 
