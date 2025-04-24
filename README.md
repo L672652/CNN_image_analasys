@@ -1,3 +1,6 @@
+https://zenodo.org/records/7711810#.ZAm3k-zMKEA
+er datasetet, du må extracte zippen defra og så pathe til den. Jeg vet ikke om jeg har lov til å legge deres dataset her
+
 Hei! dette er hvordan du kan få denne algoritmen til å fungere.
 
 Du kan først teoretisk sett kjøre koden fra Untitled1 direkte i kaggle eller en likende web løsning.
