@@ -12,7 +12,7 @@ Du ser også resultatet av siste kjøringen jeg gjorde.
 Du må også laste ned EuroSAT_RGB datasetet, og gi riktig path til det
 
  1. Last ned Python, Python version 3.9.21 er den vi brukte
- 2. Last ned Anaconda, 24.11.3 er den vi brukt.
+ 2. Last ned Anaconda, 24.11.3 er den vi brukte
  3. Last ned Tensorflow 2.10.1
  4. Last ned Numpy 1.24.3
  5. Last ned Pandas 1.5.3
@@ -22,4 +22,8 @@ Du må også laste ned EuroSAT_RGB datasetet, og gi riktig path til det
  9. Deretter er det bare å gå i anaconda cmd.exe prompt
  10. Aktivere environmentet, og så kjør jupyter notebook
  11. Deretter er det bare å gå inn på Untitled1 og klikke kjør
+
+For å bruke Flask appen så går en inn i samme environment og gjør slik
+  1. Last ned Flask 3.1.0 nyeste versjon
+  2. Last ned pillow 9.5.0
 
