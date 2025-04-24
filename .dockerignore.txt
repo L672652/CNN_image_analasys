@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+__pycache__
+EuroSAT_RGB
+logs
+UploadedImages
+AI Algorithm.ipynb
+class_precision.png
+confusion_matrix.png
+EuroSAT_RGB.zip
+FlaskAPI.ipynb
+Test.ipynb
+training_metrics.png
+Untitled.ipynb
+Untitled1.ipynb
+
