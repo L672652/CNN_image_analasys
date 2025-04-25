@@ -19,7 +19,7 @@ Du må også laste ned EuroSAT_RGB datasetet, og gi riktig path til det
  6. Last ned Seaborn 0.12.2
  7. Last ned Matplotlib 3.9.4
  8. Vi brukte Jupyter 1.1.1
- 9. Pcn son kjørte brukte Nvidia som kommer cuda, CUDA Version: 12.8 er den pcn hadde
+ 9. Pcn son kjørte brukte Nvidia som kommer cuda, CUDA Version: 12.8 er det pcn hadde
  10. Deretter er det bare å gå i anaconda cmd.exe prompt
  11. Aktivere environmentet, og så kjør jupyter notebook
  12. Deretter er det bare å gå inn på Untitled1 og klikke kjør
