@@ -13,7 +13,7 @@ Du må også laste ned EuroSAT_RGB datasetet, og gi riktig path til det
 
  1. Last ned Python, Python version 3.9.21 er den vi brukte
  2. Last ned Anaconda, 24.11.3 er den vi brukte
- 3. Last ned Tensorflow 2.10.1
+ 3. Last ned Tensorflow 2.10.1 det ble brukt gpu version hos gruppen
  4. Last ned Numpy 1.24.3
  5. Last ned Pandas 1.5.3
  6. Last ned Seaborn 0.12.2
