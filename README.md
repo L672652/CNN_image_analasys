@@ -11,6 +11,8 @@ Men hvis det er for mye arbeid er det bare å copy paste koden fra Untitled1 i k
 Du ser også resultatet av siste kjøringen vi gjorde.
 Du må også laste ned EuroSAT_RGB datasetet, og gi riktig path til det
 
+En web basert løsning er nok det letteste
+
  1. Last ned Python, Python version 3.9.21 er den vi brukte
  2. Last ned Anaconda, 24.11.3 er den vi brukte
  3. Last ned Tensorflow 2.10.1
