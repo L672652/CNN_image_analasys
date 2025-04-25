@@ -29,3 +29,5 @@ For å bruke Flask appen så går en inn i samme environment og gjør slik
   3. Så går du å skriver i terminal der appen er flask --app FlaskAPI run
   4. Da skal den kjøre, hvis du vil teste lokalt
 
+Det er også kode her for å lage Docker Imaget jeg deployet
+
